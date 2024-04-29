@@ -23,7 +23,7 @@ body{
     color: #fff;
     border-radius: 10px;
     padding: 30px 40px;
-    backdrop-filter: blur(15px);
+    backdrop-filter: blur(16px);
 }
 
 .container h1{
